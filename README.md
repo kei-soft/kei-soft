@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![kei-softs github stats](https://github-readme-stats.vercel.app/api?username=kei-soft&show_icons=true)
+![kei-softs github stats](github-readme-stats-gamma-two-57.vercel.app/api?username=kei-soft&show_icons=true)
 
 <!--
 **kei-soft/kei-soft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
