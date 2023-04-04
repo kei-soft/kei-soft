@@ -1,12 +1,9 @@
 ### Hi there 👋
 
-![kei-softs github stats](https://github-readme-stats-kei-soft.vercel.app/api?username=kei-soft&show_icons=true)
-
-
-
+![kei-softs github stats]
 <p align="center">
-<img height="180em" src="https://github-readme-stats-kei-soft.vercel.app/api?username=DevJaewoo&show_icons=true" />
-<img height="180em" src="https://github-readme-stats-kei-soft.vercel.app/api/top-langs/?username=DevJaewoo&layout=compact&hide=jupyter%20notebook" />
+<img height="180em" src="https://github-readme-stats-one-chi-71.vercel.app/api?username=DevJaewoo&show_icons=true" />
+<img height="180em" src="https://github-readme-stats-one-chi-71.vercel.app/api/top-langs/?username=DevJaewoo&layout=compact&hide=jupyter%20notebook" />
 </p>
 
 <!--
